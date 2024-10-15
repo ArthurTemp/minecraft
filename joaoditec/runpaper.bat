@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-21\bin\java.exe" -Xms4G -Xmx4G -jar paper-1.20.6-150.jar --nogui
