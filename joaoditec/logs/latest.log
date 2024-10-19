@@ -1,94 +1,84 @@
-[17:27:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:27:25] [ServerMain/INFO]: Loaded 1175 recipes
-[17:27:25] [ServerMain/INFO]: Loaded 1276 advancements
-[17:27:25] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[17:27:25] [Server thread/INFO]: Loading properties
-[17:27:25] [Server thread/INFO]: This server is running Paper version 1.20.6-150-ver/1.20.6@e61b73f (2024-09-16T19:18:19Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
-[17:27:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:27:26] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:27:27] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[18:19:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:19:54] [ServerMain/INFO]: Loaded 1175 recipes
+[18:19:55] [ServerMain/INFO]: Loaded 1276 advancements
+[18:19:55] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[18:19:55] [Server thread/INFO]: Loading properties
+[18:19:55] [Server thread/INFO]: This server is running Paper version 1.20.6-150-ver/1.20.6@e61b73f (2024-09-16T19:18:19Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[18:19:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:19:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:19:57] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[17:27:27] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and gen parallelism of 4 threads
-[17:27:27] [Server thread/INFO]: Default game type: SURVIVAL
-[17:27:27] [Server thread/INFO]: Generating keypair
-[17:27:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:27:27] [Server thread/INFO]: Using default channel type
-[17:27:27] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[17:27:27] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[17:27:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:27:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:27:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:27:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:27:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:27:27] [Server thread/INFO]: Preparing level "world"
-[17:27:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:27:29] [Server thread/INFO]: Time elapsed: 1332 ms
-[17:27:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:27:30] [Server thread/INFO]: Time elapsed: 142 ms
-[17:27:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:27:30] [Server thread/INFO]: Time elapsed: 87 ms
-[17:27:30] [Server thread/INFO]: Running delayed init tasks
-[17:27:30] [Server thread/INFO]: Done (4.435s)! For help, type "help"
-[17:27:30] [Server thread/INFO]: Timings Reset
-[17:28:01] [User Authenticator #0/INFO]: UUID of player stringzero is f6caec2d-05df-3ce6-ac77-74e51f95212f
-[17:28:02] [Server thread/INFO]: stringzero joined the game
-[17:28:02] [Server thread/INFO]: stringzero[/191.217.171.52:49700] logged in with entity id 79 at ([world]-107.8217258886697, 62.5, -82.97259959414289)
-[17:28:41] [User Authenticator #0/INFO]: UUID of player Amendocrem is 67a7a371-1707-33e7-b792-5b99ca9f10cd
-[17:28:42] [Server thread/INFO]: Amendocrem joined the game
-[17:28:42] [Server thread/INFO]: Amendocrem[/189.6.13.3:21910] logged in with entity id 1375 at ([world]-107.69999998807907, 56.0, -88.61397896892132)
-[17:28:43] [User Authenticator #0/INFO]: UUID of player PumpkinSopa is 72f4722f-cd18-37f4-8fb6-e8994289175d
-[17:28:43] [Server thread/INFO]: PumpkinSopa joined the game
-[17:28:43] [Server thread/INFO]: PumpkinSopa[/45.184.68.239:37554] logged in with entity id 1378 at ([world]-147.70040755156134, 82.0, -100.72690991699324)
-[18:02:36] [Server thread/INFO]: Villager Villager['Librarian'/233, uuid='f26bb694-c810-411a-ae94-c221296b972f', l='ServerLevel[world]', x=-148.30, y=69.00, z=-139.70, cpos=[-10, -9], tl=298867, v=true] died, message: 'Librarian was slain by Zombie'
-[18:02:56] [Server thread/INFO]: Villager Villager['Librarian'/169, uuid='caf15381-b1a2-4535-b44f-d14c70d7faaa', l='ServerLevel[world]', x=-148.30, y=69.00, z=-123.70, cpos=[-10, -8], tl=298401, v=true] died, message: 'Librarian was slain by Zombie'
-[18:18:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
-[19:15:46] [Server thread/INFO]: PumpkinSopa has made the advancement [Ice Bucket Challenge]
-[21:00:36] [Server thread/INFO]: Amendocrem was shot by PumpkinSopa
-[21:01:47] [Server thread/INFO]: Amendocrem was shot by PumpkinSopa
-[21:03:24] [Server thread/INFO]: PumpkinSopa lost connection: Disconnected
-[21:03:24] [Server thread/INFO]: PumpkinSopa left the game
-[21:03:27] [User Authenticator #1/INFO]: UUID of player PumpkinSopa is 72f4722f-cd18-37f4-8fb6-e8994289175d
-[21:03:28] [Server thread/INFO]: PumpkinSopa joined the game
-[21:03:28] [Server thread/INFO]: PumpkinSopa[/45.184.68.239:37440] logged in with entity id 74620 at ([world]-20.30000001192093, 77.78074998688697, -159.69999998807907)
-[21:13:35] [Server thread/INFO]: Amendocrem was blown up by Creeper
-[21:20:35] [Server thread/WARN]: Skeleton Horse (vehicle of PumpkinSopa) moved wrongly! 0.3319208065331054
-[21:35:48] [Server thread/INFO]: stringzero has made the advancement [Hidden in the Depths]
-[21:40:00] [Server thread/INFO]: PumpkinSopa lost connection: Disconnected
-[21:40:00] [Server thread/INFO]: PumpkinSopa left the game
-[21:54:04] [Server thread/INFO]: Villager Villager['Librarian'/232, uuid='686a7af1-758b-4cbe-911d-b8b52c1d41b9', l='ServerLevel[world]', x=-129.30, y=79.00, z=-183.76, cpos=[-9, -12], tl=536750, v=true] died, message: 'Librarian was slain by Zombie'
-[22:38:05] [Server thread/INFO]: Villager Villager['Librarian'/231, uuid='bc19b376-57e2-404e-8a96-ba57cd52428a', l='ServerLevel[world]', x=-148.31, y=69.00, z=-137.69, cpos=[-10, -9], tl=586176, v=true] died, message: 'Librarian was slain by stringzero'
-[22:38:20] [Server thread/INFO]: Villager Villager['Librarian'/167, uuid='132a28a3-953c-49dd-b4f9-d395912c12ac', l='ServerLevel[world]', x=-148.32, y=69.00, z=-127.38, cpos=[-10, -8], tl=586325, v=true] died, message: 'Librarian was slain by stringzero'
-[23:02:35] [Server thread/INFO]: Villager Villager['Librarian'/263, uuid='e6b04983-c786-4315-af3a-0c4ffca1a8c3', l='ServerLevel[world]', x=-140.30, y=75.56, z=-153.30, cpos=[-9, -10], tl=620706, v=true] died, message: 'Librarian was slain by stringzero'
-[23:17:35] [Server thread/INFO]: Villager Villager['Villager'/266, uuid='55f43681-ce41-4d4b-aeaa-15971cc62324', l='ServerLevel[world]', x=-133.59, y=75.56, z=-154.60, cpos=[-9, -10], tl=638709, v=true] died, message: 'Villager was slain by Amendocrem'
-[23:17:39] [Server thread/INFO]: Villager Villager['Villager'/265, uuid='2298f907-87b1-4b86-a377-554f24018a0e', l='ServerLevel[world]', x=-133.48, y=75.66, z=-155.52, cpos=[-9, -10], tl=638797, v=true] died, message: 'Villager was slain by Amendocrem'
-[23:41:40] [Async Chat Thread - #0/INFO]: [Not Secure] <stringzero> skeletons, zombies, zombie villagers, withers, wither skeletons, zombified piglins, skeleton horses, zombie horses(15), strays, husks, phantoms, drowned, and zoglins.
-[23:43:11] [Server thread/INFO]: stringzero lost connection: Disconnected
-[23:43:11] [Server thread/INFO]: stringzero left the game
-[23:43:27] [Server thread/INFO]: Stopping server
-[23:43:27] [Server thread/INFO]: Saving players
-[23:43:28] [Server thread/INFO]: Amendocrem lost connection: Server closed
-[23:43:28] [Server thread/INFO]: Amendocrem left the game
-[23:43:28] [Server thread/INFO]: Saving worlds
-[23:43:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:43:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[23:43:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[23:43:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[23:43:28] [Server thread/INFO]: [ChunkHolderManager] Saved 20 block chunks, 943 entity chunks, 3 poi chunks in world 'world' in 0,16s
-[23:43:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:43:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:43:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[23:43:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[23:43:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[23:43:28] [Server thread/INFO]: [ChunkHolderManager] Saved 35 block chunks, 170 entity chunks, 0 poi chunks in world 'world_nether' in 0,08s
-[23:43:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:43:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:43:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[23:43:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[23:43:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[23:43:28] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0,00s
-[23:43:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:43:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:43:28] [Server thread/INFO]: Flushing Chunk IO
-[23:43:28] [Server thread/INFO]: Closing Thread Pool
-[23:43:28] [Server thread/INFO]: Closing Server
+[18:19:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and gen parallelism of 4 threads
+[18:19:58] [Server thread/INFO]: Default game type: SURVIVAL
+[18:19:58] [Server thread/INFO]: Generating keypair
+[18:19:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:19:58] [Server thread/INFO]: Using default channel type
+[18:19:58] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[18:19:58] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[18:19:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:19:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:19:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:19:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:19:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:19:58] [Server thread/INFO]: Preparing level "world"
+[18:19:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:20:01] [Server thread/INFO]: Time elapsed: 2105 ms
+[18:20:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:20:01] [Server thread/INFO]: Time elapsed: 317 ms
+[18:20:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:20:01] [Server thread/INFO]: Time elapsed: 218 ms
+[18:20:01] [Server thread/INFO]: Running delayed init tasks
+[18:20:01] [Server thread/INFO]: Done (6.381s)! For help, type "help"
+[18:20:01] [Server thread/INFO]: Timings Reset
+[18:20:22] [User Authenticator #0/INFO]: UUID of player stringzero is f6caec2d-05df-3ce6-ac77-74e51f95212f
+[18:20:23] [Server thread/INFO]: stringzero joined the game
+[18:20:23] [Server thread/INFO]: stringzero[/191.217.171.52:52607] logged in with entity id 98 at ([world]-153.48780140491388, 80.0, -174.58490459057222)
+[18:21:57] [User Authenticator #1/INFO]: UUID of player Amendocrem is 67a7a371-1707-33e7-b792-5b99ca9f10cd
+[18:21:58] [Server thread/INFO]: Amendocrem joined the game
+[18:21:58] [Server thread/INFO]: Amendocrem[/189.6.13.3:18004] logged in with entity id 1615 at ([world]-110.2208007897016, 71.5, -143.13713440542378)
+[18:36:05] [Async Chat Thread - #0/INFO]: [Not Secure] <stringzero> -300 50
+[18:54:36] [Async Chat Thread - #1/INFO]: [Not Secure] <stringzero> Upgrading diamond tools and armor to netherite now requires the netherite upgrade smithing template in addition to a netherite ingot
+[18:58:28] [Async Chat Thread - #3/INFO]: [Not Secure] <stringzero> I got so happy because after an hour or so of mining and almost blowing myself up, I got enough netherite for my whole set of armor, and I was so ready to upgrade my stuff. I was then immediately reminded that I need this damn template. Who the fuck wanted
+[19:20:50] [Server thread/INFO]: Amendocrem has completed the challenge [Return to Sender]
+[19:28:07] [Server thread/INFO]: Villager Villager['Librarian'/148, uuid='8d1cb230-b252-4160-a425-1fbd846569eb', l='ServerLevel[world]', x=-150.69, y=69.19, z=-123.90, cpos=[-10, -8], tl=96954, v=true] died, message: 'Librarian suffocated in a wall'
+[19:54:30] [Async Chat Thread - #5/INFO]: [Not Secure] <stringzero> spruce
+[20:13:22] [Server thread/INFO]: Seed: [5649192213394762391]
+[20:15:20] [Server thread/INFO]: Villager Villager['Cleric'/103, uuid='640ee06e-876d-4d71-b5be-3a4954911fc0', l='ServerLevel[world]', x=-138.48, y=79.00, z=-189.10, cpos=[-9, -12], tl=129304, v=true] died, message: 'Cleric was slain by Zombie'
+[20:28:45] [Server thread/INFO]: Villager Villager['Librarian'/116, uuid='6dc833ff-4a70-4cbd-984b-2c59f1068679', l='ServerLevel[world]', x=-139.43, y=79.00, z=-188.50, cpos=[-9, -12], tl=186899, v=true] died, message: 'Librarian was slain by Zombie'
+[20:56:11] [Server thread/INFO]: Villager Villager['Librarian'/111, uuid='6d2ec36e-5299-4b01-af8e-b3c2cf5171e7', l='ServerLevel[world]', x=-136.38, y=71.00, z=-139.64, cpos=[-9, -9], tl=309215, v=true] died, message: 'Librarian was burned to a crisp while fighting Amendocrem'
+[21:07:21] [Async Chat Thread - #7/INFO]: [Not Secure] <stringzero> -150 -250
+[21:08:18] [Server thread/INFO]: stringzero has made the advancement [Those Were the Days]
+[21:08:26] [Server thread/INFO]: Amendocrem has made the advancement [Those Were the Days]
+[21:14:01] [Server thread/INFO]: Amendocrem was slain by Piglin Brute
+[21:14:47] [Async Chat Thread - #9/INFO]: [Not Secure] <stringzero> -233 -249
+[21:14:53] [Async Chat Thread - #9/INFO]: [Not Secure] <stringzero> altura 83
+[21:14:56] [Server thread/INFO]: stringzero has made the advancement [War Pigs]
+[21:23:31] [Server thread/INFO]: Amendocrem has made the advancement [War Pigs]
+[21:23:43] [Server thread/INFO]: stringzero has made the advancement [Who is Cutting Onions?]
+[21:40:15] [Async Chat Thread - #11/INFO]: [Not Secure] <stringzero> altura 83
+[21:40:18] [Async Chat Thread - #11/INFO]: [Not Secure] <stringzero> -150 -250
+[21:50:45] [Async Chat Thread - #14/INFO]: [Not Secure] <stringzero> 6 netherite
+[21:50:49] [Async Chat Thread - #14/INFO]: [Not Secure] <stringzero> 42 diamantes
+[21:52:32] [Async Chat Thread - #15/INFO]: [Not Secure] <stringzero> -60 -100
+[22:39:01] [Server thread/INFO]: Amendocrem has completed the challenge [Cover Me in Debris]
+[22:51:01] [Async Chat Thread - #17/INFO]: [Not Secure] <stringzero> Sweeping Edge is a sword enchantment that increases sweep attack damage.
+[22:52:13] [Server thread/INFO]: Villager Villager['Villager'/115, uuid='c3366cf1-825b-4393-bff3-69106f84dae5', l='ServerLevel[world]', x=-147.70, y=68.00, z=-122.70, cpos=[-10, -8], tl=299330, v=true] died, message: 'Villager was slain by Zombie'
+[22:56:14] [Server thread/INFO]: Villager Villager['Butcher'/114, uuid='a14bfd70-109c-4d4c-98b4-9c2f500a11d2', l='ServerLevel[world]', x=-104.93, y=71.00, z=-163.50, cpos=[-7, -11], tl=357770, v=true] died, message: 'Butcher was shot by Amendocrem using [Arcozinho]'
+[23:07:28] [Server thread/INFO]: stringzero fell from a high place
+[23:10:42] [Async Chat Thread - #19/INFO]: [Not Secure] <stringzero> % with Looting III
+[23:54:25] [Server thread/WARN]: Amendocrem moved wrongly!
+[23:54:25] [Server thread/WARN]: Amendocrem moved wrongly!
+[23:54:26] [Server thread/WARN]: Amendocrem moved wrongly!
+[23:54:26] [Server thread/WARN]: Amendocrem moved wrongly!
+[23:54:26] [Server thread/WARN]: Amendocrem moved wrongly!
+[23:54:27] [Server thread/WARN]: Amendocrem moved wrongly!
+[23:54:27] [Server thread/WARN]: Amendocrem moved wrongly!
+[23:58:03] [Server thread/INFO]: stringzero lost connection: Disconnected
+[23:58:03] [Server thread/INFO]: stringzero left the game
+[23:58:05] [Server thread/INFO]: Amendocrem lost connection: Disconnected
+[23:58:05] [Server thread/INFO]: Amendocrem left the game
+[23:58:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+exit<--[HERE]
+[23:58:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+quit<--[HERE]
