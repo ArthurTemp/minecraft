@@ -1357,6 +1357,7 @@
       "minecraft:skeleton": "2025-02-08 07:54:00 -0300",
       "minecraft:phantom": "2025-02-11 16:54:01 -0300",
       "minecraft:zombified_piglin": "2025-02-11 16:45:34 -0300",
+      "minecraft:witch": "2025-02-28 19:10:46 -0300",
       "minecraft:wither_skeleton": "2025-02-10 17:53:04 -0300",
       "minecraft:husk": "2025-02-08 07:52:13 -0300",
       "minecraft:ghast": "2025-02-11 16:39:23 -0300",
@@ -4123,9 +4124,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/wolf_armor": {
+  "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
-      "has_armadillo_scute": "2025-02-26 19:07:32 -0300"
+      "armor_trimmed_minecraft:eye_armor_trim_smithing_template_smithing_trim": "2025-02-26 18:20:47 -0300"
     },
     "done": true
   },
@@ -4135,9 +4136,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
+  "minecraft:recipes/combat/wolf_armor": {
     "criteria": {
-      "armor_trimmed_minecraft:eye_armor_trim_smithing_template_smithing_trim": "2025-02-26 18:20:47 -0300"
+      "has_armadillo_scute": "2025-02-26 19:07:32 -0300"
     },
     "done": true
   },
