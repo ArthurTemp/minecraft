@@ -1,53 +1,26 @@
-[18:15:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:15:28] [ServerMain/INFO]: Loaded 1175 recipes
-[18:15:29] [ServerMain/INFO]: Loaded 1276 advancements
-[18:15:29] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[18:15:29] [Server thread/INFO]: Loading properties
-[18:15:29] [Server thread/INFO]: This server is running Paper version 1.20.6-150-ver/1.20.6@e61b73f (2024-09-16T19:18:19Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
-[18:15:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:15:30] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:15:30] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
-    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
-    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[18:15:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and gen parallelism of 4 threads
-[18:15:31] [Server thread/INFO]: Default game type: SURVIVAL
-[18:15:31] [Server thread/INFO]: Generating keypair
-[18:15:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:15:31] [Server thread/INFO]: Using default channel type
-[18:15:31] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[18:15:31] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[18:15:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:15:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:15:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:15:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:15:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:15:31] [Server thread/INFO]: Preparing level "world"
-[18:15:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:15:33] [Server thread/INFO]: Time elapsed: 1233 ms
-[18:15:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:15:33] [Server thread/INFO]: Time elapsed: 318 ms
-[18:15:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:15:33] [Server thread/INFO]: Time elapsed: 110 ms
-[18:15:33] [Server thread/INFO]: Running delayed init tasks
-[18:15:33] [Server thread/INFO]: Done (4.626s)! For help, type "help"
-[18:15:33] [Server thread/INFO]: Timings Reset
-[18:15:34] [User Authenticator #0/INFO]: UUID of player zeroth is 93a9dcdf-3cf1-3064-a4be-14c96ffc4316
-[18:15:35] [Server thread/INFO]: zeroth joined the game
-[18:15:35] [Server thread/INFO]: zeroth[/127.0.0.1:50326] logged in with entity id 28 at ([world]25.268700915701555, 96.0, 192.9681736201034)
-[18:15:35] [User Authenticator #0/INFO]: UUID of player Amendocrem is 67a7a371-1707-33e7-b792-5b99ca9f10cd
-[18:15:36] [Server thread/INFO]: Amendocrem joined the game
-[18:15:36] [Server thread/INFO]: Amendocrem[/189.6.13.3:19096] logged in with entity id 31 at ([world]108.54275207365069, 64.0, 126.5103471245536)
-[19:17:52] [Server thread/INFO]: Amendocrem lost connection: Disconnected
-[19:17:52] [Server thread/INFO]: Amendocrem left the game
-[19:21:26] [Async Chat Thread - #0/INFO]: [Not Secure] <zeroth> guardiao 1200 -2400
-[19:38:19] [Server thread/INFO]: zeroth was blown up by Creeper
-[19:44:56] [User Authenticator #1/INFO]: UUID of player Amendocrem is 67a7a371-1707-33e7-b792-5b99ca9f10cd
-[19:44:57] [Server thread/INFO]: Amendocrem joined the game
-[19:44:57] [Server thread/INFO]: Amendocrem[/189.6.13.3:19297] logged in with entity id 35865 at ([world]106.30000001192093, 73.0, 139.4720785006382)
-[20:34:11] [Server thread/INFO]: zeroth fell from a high place
-[20:46:33] [Server thread/INFO]: zeroth fell from a high place
-[20:51:04] [Server thread/INFO]: Amendocrem fell from a high place
-[20:55:25] [Server thread/INFO]: zeroth lost connection: Disconnected
-[20:55:25] [Server thread/INFO]: zeroth left the game
-[20:55:33] [Server thread/INFO]: Amendocrem lost connection: Disconnected
-[20:55:33] [Server thread/INFO]: Amendocrem left the game
+[19:06:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 66054958ms or 1321099 ticks behind
+[22:57:59] [Server thread/INFO]: Stopping server
+[22:57:59] [Server thread/INFO]: Saving players
+[22:57:59] [Server thread/INFO]: Saving worlds
+[22:57:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:57:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:57:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:57:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:57:59] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 174 entity chunks, 0 poi chunks in world 'world' in 0,25s
+[22:58:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:58:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:58:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:58:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:58:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:58:01] [Server thread/INFO]: [ChunkHolderManager] Saved 17 block chunks, 133 entity chunks, 0 poi chunks in world 'world_nether' in 0,82s
+[22:58:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:58:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:58:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:58:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:58:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:58:01] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 34 entity chunks, 0 poi chunks in world 'world_the_end' in 0,18s
+[22:58:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:58:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:58:02] [Server thread/INFO]: Flushing Chunk IO
+[22:58:02] [Server thread/INFO]: Closing Thread Pool
+[22:58:02] [Server thread/INFO]: Closing Server
