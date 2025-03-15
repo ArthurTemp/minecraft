@@ -21,6 +21,7 @@
       "minecraft:cherry_grove": "2025-02-10 15:29:09 -0300",
       "minecraft:sunflower_plains": "2025-03-02 17:40:19 -0300",
       "minecraft:birch_forest": "2025-02-09 13:34:43 -0300",
+      "minecraft:windswept_hills": "2025-03-10 17:44:29 -0300",
       "minecraft:old_growth_spruce_taiga": "2025-03-02 19:05:32 -0300",
       "minecraft:snowy_beach": "2025-03-02 19:12:34 -0300",
       "minecraft:wooded_badlands": "2025-02-04 18:14:44 -0300",
@@ -32,6 +33,7 @@
       "minecraft:flower_forest": "2025-03-02 17:40:22 -0300",
       "minecraft:beach": "2025-02-09 13:21:12 -0300",
       "minecraft:dark_forest": "2025-02-10 15:33:01 -0300",
+      "minecraft:stony_peaks": "2025-03-10 17:43:43 -0300",
       "minecraft:mangrove_swamp": "2025-02-09 13:21:35 -0300",
       "minecraft:sparse_jungle": "2025-02-09 13:28:00 -0300",
       "minecraft:river": "2025-02-04 18:20:21 -0300",
@@ -4180,33 +4182,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-03-02 19:18:40 -0300"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/whole_pack": {
-    "criteria": {
-      "minecraft:woods": "2025-03-02 19:18:40 -0300"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-03-02 17:56:33 -0300"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:wolf": "2025-03-02 19:19:57 -0300"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-03-02 17:56:34 -0300"
     },
     "done": true
   },
@@ -4222,9 +4200,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-02 17:56:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-02 19:18:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-03-02 19:18:40 -0300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-03-02 19:19:57 -0300"
+    },
+    "done": false
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-03-02 19:19:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-03-10 16:57:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-03-10 18:37:59 -0300"
     },
     "done": true
   },
