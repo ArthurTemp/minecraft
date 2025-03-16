@@ -1369,27 +1369,29 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-02-10 17:57:39 -0300",
+      "minecraft:pillager": "2025-03-14 23:10:56 -0300",
       "minecraft:skeleton": "2025-02-08 07:54:00 -0300",
+      "minecraft:ghast": "2025-02-11 16:39:23 -0300",
+      "minecraft:hoglin": "2025-02-10 17:40:32 -0300",
+      "minecraft:guardian": "2025-03-02 17:54:17 -0300",
+      "minecraft:magma_cube": "2025-02-18 17:30:25 -0300",
+      "minecraft:spider": "2025-02-08 07:53:15 -0300",
+      "minecraft:piglin_brute": "2025-02-21 20:30:36 -0300",
+      "minecraft:creeper": "2025-02-04 19:12:14 -0300",
+      "minecraft:wither": "2025-03-14 22:37:55 -0300",
       "minecraft:phantom": "2025-02-11 16:54:01 -0300",
       "minecraft:zombified_piglin": "2025-02-11 16:45:34 -0300",
       "minecraft:witch": "2025-02-28 19:10:46 -0300",
       "minecraft:wither_skeleton": "2025-02-10 17:53:04 -0300",
       "minecraft:husk": "2025-02-08 07:52:13 -0300",
-      "minecraft:ghast": "2025-02-11 16:39:23 -0300",
       "minecraft:ender_dragon": "2025-02-21 17:48:57 -0300",
-      "minecraft:hoglin": "2025-02-10 17:40:32 -0300",
       "minecraft:shulker": "2025-02-21 19:02:28 -0300",
       "minecraft:cave_spider": "2025-02-18 18:50:41 -0300",
       "minecraft:piglin": "2025-02-18 17:34:03 -0300",
-      "minecraft:guardian": "2025-03-02 17:54:17 -0300",
       "minecraft:silverfish": "2025-02-18 18:57:02 -0300",
       "minecraft:enderman": "2025-02-21 17:42:16 -0300",
-      "minecraft:magma_cube": "2025-02-18 17:30:25 -0300",
       "minecraft:endermite": "2025-02-22 21:23:53 -0300",
-      "minecraft:spider": "2025-02-08 07:53:15 -0300",
-      "minecraft:piglin_brute": "2025-02-21 20:30:36 -0300",
       "minecraft:zombie": "2025-02-08 07:12:27 -0300",
-      "minecraft:creeper": "2025-02-04 19:12:14 -0300",
       "minecraft:drowned": "2025-02-04 19:31:22 -0300",
       "minecraft:zombie_villager": "2025-02-10 19:31:30 -0300"
     },
@@ -2695,10 +2697,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-02-10 17:39:32 -0300",
       "minecraft:nether_wastes": "2025-02-10 16:58:40 -0300",
+      "minecraft:soul_sand_valley": "2025-03-14 22:15:07 -0300",
       "minecraft:warped_forest": "2025-02-18 18:02:03 -0300",
       "minecraft:basalt_deltas": "2025-02-21 20:25:10 -0300"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
@@ -4239,6 +4242,78 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-03-10 18:37:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-03-14 23:03:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-14 22:12:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-15 00:07:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-15 00:07:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-03-14 22:36:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-15 00:07:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-03-14 22:38:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "pumpkin_stem": "2025-03-14 22:22:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-03-14 22:37:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-15 00:07:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-03-14 22:37:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-14 22:12:18 -0300"
     },
     "done": true
   },

@@ -1,26 +1,5 @@
-[18:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 125151212ms or 2503024 ticks behind
-[18:29:15] [Server thread/INFO]: Stopping server
-[18:29:15] [Server thread/INFO]: Saving players
-[18:29:15] [Server thread/INFO]: Saving worlds
-[18:29:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:29:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[18:29:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[18:29:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[18:29:15] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 119 entity chunks, 0 poi chunks in world 'world' in 0,09s
-[18:29:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:29:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[18:29:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[18:29:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[18:29:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[18:29:16] [Server thread/INFO]: [ChunkHolderManager] Saved 17 block chunks, 118 entity chunks, 0 poi chunks in world 'world_nether' in 0,06s
-[18:29:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:29:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[18:29:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[18:29:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[18:29:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[18:29:16] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 27 entity chunks, 0 poi chunks in world 'world_the_end' in 0,01s
-[18:29:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:29:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18:29:16] [Server thread/INFO]: Flushing Chunk IO
-[18:29:16] [Server thread/INFO]: Closing Thread Pool
-[18:29:16] [Server thread/INFO]: Closing Server
+[00:04:07] [Server thread/INFO]: Villager Villager['Villager'/144, uuid='f2e6025d-a797-430e-99e3-14147180ae77', l='ServerLevel[world]', x=142.85, y=60.05, z=52.45, cpos=[8, 3], tl=101848, v=true] died, message: 'Villager was squished too much'
+[00:12:10] [Server thread/INFO]: Amendocrem lost connection: Disconnected
+[00:12:10] [Server thread/INFO]: Amendocrem left the game
+[00:12:12] [Server thread/INFO]: zeroth lost connection: Disconnected
+[00:12:12] [Server thread/INFO]: zeroth left the game
