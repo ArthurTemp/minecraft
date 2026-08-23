@@ -1,0 +1,54 @@
+[00:06:04] [Async Chat Thread - #56/INFO]: [Not Secure] <Joao> fas como/
+[00:06:07] [Async Chat Thread - #56/INFO]: [Not Secure] <zeroth> direito pra crescer
+[00:06:24] [Async Chat Thread - #56/INFO]: [Not Secure] <Joao> botao direito?
+[00:13:08] [Async Chat Thread - #58/INFO]: [Not Secure] <Joao> qual forma mais facil de obter comida?
+[00:13:20] [Async Chat Thread - #58/INFO]: [Not Secure] <zeroth> aquela fazendinha que a gente tinha
+[00:13:21] [Async Chat Thread - #59/INFO]: [Not Secure] <zeroth> de vaca
+[00:13:28] [Async Chat Thread - #59/INFO]: [Not Secure] <Joao> bah, longe
+[00:13:33] [Async Chat Thread - #59/INFO]: [Not Secure] <Joao> lembra coordenada?
+[00:13:36] [Async Chat Thread - #59/INFO]: [Not Secure] <zeroth> tem muito pao aqui
+[00:13:55] [Async Chat Thread - #59/INFO]: [Not Secure] <Joao> cade pao/
+[00:14:01] [Async Chat Thread - #59/INFO]: [Not Secure] <zeroth> acabei de dropar pra você
+[00:14:12] [Async Chat Thread - #59/INFO]: [Not Secure] <Joao> vlw
+[00:14:54] [Async Chat Thread - #59/INFO]: [Not Secure] <zeroth> dormir?
+[00:16:49] [Async Chat Thread - #60/INFO]: [Not Secure] <Joao> se eu fechar a porta o villager pode abrir?
+[00:17:39] [Async Chat Thread - #60/INFO]: [Not Secure] <zeroth> vou ao banheiro
+[00:17:45] [Async Chat Thread - #60/INFO]: [Not Secure] <zeroth> to dormindo
+[00:23:30] [Async Chat Thread - #62/INFO]: [Not Secure] <Joao> compostora?
+[00:23:36] [Async Chat Thread - #62/INFO]: [Not Secure] <zeroth> teira?
+[00:23:42] [Async Chat Thread - #62/INFO]: [Not Secure] <Joao> isso
+[00:24:28] [Async Chat Thread - #62/INFO]: [Not Secure] <Joao> ta aqui perto ne
+[00:30:34] [Async Chat Thread - #64/INFO]: [Not Secure] <zeroth> dormir
+[00:42:33] [Server thread/INFO]: Jabriel lost connection: Disconnected
+[00:42:33] [Server thread/INFO]: Jabriel left the game
+[00:42:33] [Server thread/INFO]: zeroth lost connection: Disconnected
+[00:42:33] [Server thread/INFO]: zeroth left the game
+[00:42:36] [Server thread/INFO]: Amendocrem lost connection: Disconnected
+[00:42:36] [Server thread/INFO]: Amendocrem left the game
+[00:42:39] [Server thread/INFO]: Joao lost connection: Disconnected
+[00:42:39] [Server thread/INFO]: Joao left the game
+[00:43:46] [Server thread/INFO]: Stopping server
+[00:43:46] [Server thread/INFO]: Saving players
+[00:43:46] [Server thread/INFO]: Saving worlds
+[00:43:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:43:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:43:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:43:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:43:46] [Server thread/INFO]: [ChunkHolderManager] Saved 72 block chunks, 97 entity chunks, 0 poi chunks in world 'world' in 0,13s
+[00:43:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:43:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:43:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:43:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:43:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:43:47] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 102 entity chunks, 0 poi chunks in world 'world_nether' in 0,02s
+[00:43:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:43:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:43:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:43:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:43:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:43:47] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0,15s
+[00:43:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:43:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:43:47] [Server thread/INFO]: Flushing Chunk IO
+[00:43:47] [Server thread/INFO]: Closing Thread Pool
+[00:43:47] [Server thread/INFO]: Closing Server
