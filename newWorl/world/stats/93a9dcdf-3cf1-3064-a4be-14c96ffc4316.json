@@ -1,0 +1,43 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:crafting_table": 1,
+      "minecraft:wooden_pickaxe": 3,
+      "minecraft:stone_pickaxe": 27
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 3626,
+      "minecraft:walk_one_cm": 3743,
+      "minecraft:leave_game": 3,
+      "minecraft:damage_taken": 30,
+      "minecraft:damage_dealt": 20,
+      "minecraft:play_time": 3626,
+      "minecraft:jump": 30,
+      "minecraft:time_since_death": 3626,
+      "minecraft:sprint_one_cm": 6958,
+      "minecraft:fall_one_cm": 1500,
+      "minecraft:total_world_time": 3626,
+      "minecraft:fly_one_cm": 8669
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 1,
+      "minecraft:granite": 7,
+      "minecraft:acacia_log": 8,
+      "minecraft:stone": 23
+    },
+    "minecraft:picked_up": {
+      "minecraft:cobblestone": 23,
+      "minecraft:acacia_log": 8,
+      "minecraft:granite": 3
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 4,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 1,
+      "minecraft:acacia_planks": 32
+    }
+  },
+  "DataVersion": 4671
+}
